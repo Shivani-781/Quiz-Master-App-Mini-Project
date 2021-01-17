@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_gravity="center"
+    android:layout_margin="15dp"
+    android:layout_weight="1"
+    android:background="@color/colorPrimaryDark">
+
+    <TextView
+        android:id="@+id/catName"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/cat_1"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+</GridLayout>

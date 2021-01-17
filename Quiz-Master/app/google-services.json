@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570553157961",
+    "firebase_url": "https://quizmaster-c37db.firebaseio.com",
+    "project_id": "quizmaster-c37db",
+    "storage_bucket": "quizmaster-c37db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570553157961:android:2e8f14ead9c84cf7dfb298",
+        "android_client_info": {
+          "package_name": "com.example.quizmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570553157961-c17dcrk4f9et9bctp4u265nv0tidcg3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizmaster",
+            "certificate_hash": "e5f6a5d948ae8588eba02cdcf0d823bf590a74ae"
+          }
+        },
+        {
+          "client_id": "570553157961-d934vd66uflnjo1lv6riil24cpu97jjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0VLW1qCs4pnm9WEM8ga6tf-lTMNu_TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570553157961-d934vd66uflnjo1lv6riil24cpu97jjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

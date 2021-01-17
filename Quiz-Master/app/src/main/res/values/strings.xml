@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz Master</string>
+    <string name="quiz_master">Quiz Master</string>
+    <string name="are_you_ready">Are You Ready?</string>
+    <string name="cat_1">Cat 1</string>
+    <string name="_1">1</string>
+    <string name="question">Question</string>
+    <string name="_1_10">1/10</string>
+    <string name="option1">Option1</string>
+    <string name="option2">Option2</string>
+    <string name="option3">Option3</string>
+    <string name="option4">Option4</string>
+    <string name="_10">10</string>
+    <string name="sets">Sets</string>
+    <string name="score">Score</string>
+    <string name="_5_10">5 / 10</string>
+    <string name="loading">Loading...</string>
+</resources>
